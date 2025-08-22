@@ -15,6 +15,8 @@ The database is designed following **3NF rules** with **primary keys (PK)** and 
 - **Schema:** \`sales\`  
 - Stores customer and sales data including invoices, products, and sold products.
 <img width="368" height="267" alt="Image" src="https://github.com/user-attachments/assets/0e4610c8-feef-4f2f-9d2b-435f7f20c4ec" />
+
+
 ### Tables
 
 1. **Customer**
